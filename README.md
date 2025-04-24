@@ -16,4 +16,6 @@ Combining different AI models to improve search and reasoning
 >strategyqa.txt
 >The test results from StrategyQA. We also tested on MATH-500.
 
+>Download the MATH-500 or StrategyQA dataset in .jsonl format to test it (test.jsonl). Or use your own dataset.
+
 Inspired by the MOSA paper: https://arxiv.org/pdf/2502.18873 
