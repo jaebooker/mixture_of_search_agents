@@ -13,9 +13,9 @@ Combining different AI models to improve search and reasoning
 >mcts_reward.py:
 >a fully implemented version that contains a reward function based on which answers get aggregated most, a separate llm to aggregate the answers from different sub-agents, and another model to determine the descrepency between the MOSA answer and the labeled answer.
 
->strategyqa.txt
->The test results from StrategyQA. We also tested on MATH-500.
+>strategyqa.txt:
+>the test results from StrategyQA.
 
->Download the MATH-500 or StrategyQA dataset in .jsonl format to test it (test.jsonl). Or use your own dataset.
+>Download the MATH-500 or StrategyQA dataset in .jsonl format to test it (test.jsonl) or use your own dataset.
 
 Inspired by the MOSA paper: https://arxiv.org/pdf/2502.18873 
